@@ -18,18 +18,18 @@ The system is designed to manage:
 
 ## ***🎯 Objectives***
 
-Design a normalized relational database
+- Design a normalized relational database
 
-Simulate a real-world university system
+- Simulate a real-world university system
 
-Solve business questions using SQL queries
+- Solve business questions using SQL queries
 
-Perform data aggregation, joins, and analytical queries
+- Perform data aggregation, joins, and analytical queries
 
 ## ***🏗️ Database Schema***
-🔹 Conceptual Model (ERD)
+- Conceptual Model (ERD)
 
-🔹 Physical Model (Relational Schema)
+- Physical Model (Relational Schema)
 
 ## ***🗂️ Dataset Description***
 
@@ -142,15 +142,15 @@ SQL Server Management Studio (SSMS)
 
 ## ***💡 Key Skills Demonstrated***
 
-Database Design (ERD, normalization)
+- Database Design (ERD, normalization)
 
-Complex SQL Queries
+- Complex SQL Queries
 
-JOIN, GROUP BY, HAVING
+- JOIN, GROUP BY, HAVING
 
-Subqueries & Aggregations
+- Subqueries & Aggregations
 
-Real-world Data Analysis Thinking
+- Real-world Data Analysis Thinking
 
 ## ***👤 My Contributions***
 
@@ -158,19 +158,19 @@ As part of a team project, I was responsible for multiple stages of the system d
 
 ### Dataset Preparation
 
-Participated in designing and generating the synthetic dataset
+- Participated in designing and generating the synthetic dataset
 
-Ensured data consistency and logical relationships between entities
+- Ensured data consistency and logical relationships between entities
 
 ### Database Design
 
-Contributed to both:
+- Contributed to both:
 
-Conceptual Design (ERD)
+- Conceptual Design (ERD)
 
-Physical Design (Relational Schema in SQL Server)
+- Physical Design (Relational Schema in SQL Server)
 
-Reviewed and validated table structures, primary keys, and relationships
+- Reviewed and validated table structures, primary keys, and relationships
 
 ### SQL Development
 
@@ -186,12 +186,12 @@ Implemented and optimized analytical queries, including:
 
 ### System Validation & Testing
 
-Reviewed the entire database and queries for correctness
+- Reviewed the entire database and queries for correctness
 
-Ensured queries return accurate and meaningful results
+- Ensured queries return accurate and meaningful results
 
 ### Presentation
 
-Delivered the final project presentation
+- Delivered the final project presentation
 
-Explained database design, query logic, and analytical results
+- Explained database design, query logic, and analytical results
