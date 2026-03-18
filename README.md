@@ -131,19 +131,16 @@ Average grade per course per semester
 
 Students with highest GPA in each class
 
-🛠️ Technologies Used
-
-SQL Server
-
-T-SQL
+### 🛠️ Technologies Used
 
 SQL Server Management Studio (SSMS)
 
-🚀 How to Run
+## ***🚀 How to Run***
 1. Open SQL Server Management Studio
-2. Run file: schema.sql (create database + tables)
-3. Run file: queries.sql (analysis queries)
-💡 Key Skills Demonstrated
+2. Run file: QLSV-Nhóm_1.sql (create database + tables)
+3. Run file: TruyvanQLSV-Nhóm_1.sql (analysis queries)
+
+## ***💡 Key Skills Demonstrated***
 
 Database Design (ERD, normalization)
 
@@ -154,3 +151,47 @@ JOIN, GROUP BY, HAVING
 Subqueries & Aggregations
 
 Real-world Data Analysis Thinking
+
+## ***👤 My Contributions***
+
+As part of a team project, I was responsible for multiple stages of the system development, including both conceptual design and implementation:
+
+### Dataset Preparation
+
+Participated in designing and generating the synthetic dataset
+
+Ensured data consistency and logical relationships between entities
+
+### Database Design
+
+Contributed to both:
+
+Conceptual Design (ERD)
+
+Physical Design (Relational Schema in SQL Server)
+
+Reviewed and validated table structures, primary keys, and relationships
+
+### SQL Development
+
+Implemented and optimized analytical queries, including:
+
+- Query (e): Course registration count per student
+
+- Query (f): Teaching load per lecturer per semester
+
+- Query (g): Students retaking courses
+
+- Query (h): GPA and accumulated credits calculation
+
+### System Validation & Testing
+
+Reviewed the entire database and queries for correctness
+
+Ensured queries return accurate and meaningful results
+
+### Presentation
+
+Delivered the final project presentation
+
+Explained database design, query logic, and analytical results
